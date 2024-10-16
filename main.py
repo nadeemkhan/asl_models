@@ -34,8 +34,7 @@ labels_dict = {
     11: 'Hungry',
     12: 'Stand',
     13: 'Hello',
-    14: 'Today',
-    14: 'Tommorrow'
+    14: 'Today'
 }
 
 @app.route('/')
